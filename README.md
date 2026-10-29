@@ -1,4 +1,4 @@
-# political-interviews-clarity-classification-transformers
+# transformers-political-interviews-clarity-classification
 
 ##  Assignment Description
 
