@@ -2,7 +2,7 @@
 
 ##  Assignment Description
 
-Response clarity classification of political interviews (Clear Reply, Ambivalent, Clear Non-Reply) by fine tuning three pretrained transformer 
+Clarity classification of responses in political interviews (Clear Reply, Ambivalent, Clear Non-Reply) by fine tuning three pretrained transformer 
 models (BERT, DistilBERT, DeBERTa-v3) from the Hugging Face Transformers library, trained with a custom PyTorch training loop, based on SemEval 
 2026 Task 6 (CLARITY)
 
