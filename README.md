@@ -14,6 +14,16 @@ models (BERT, DistilBERT, DeBERTa-v3) from the Hugging Face Transformers library
 | `distilbert-base-uncased.ipynb` | fine tuning of distilbert-base-uncased |
 | `microsoft-deberta-v3-base.ipynb` | fine tuning of microsoft/deberta-v3-base |
 
+##  Runtime
+
+Approximate runtime of each notebook on Google Colab with a Tesla T4 GPU:
+
+| Notebook Name | Runtime |
+|---|---|
+| `bert-base-uncased.ipynb` | ~22 minutes |
+| `distilbert-base-uncased.ipynb` | ~15 minutes |
+| `microsoft-deberta-v3-base.ipynb` | ~2 hours 10 minutes |
+
 ##  Dataset
 
 The dataset used in this project is available on Hugging Face: [ailsntua/QEvasion](https://huggingface.co/datasets/ailsntua/QEvasion)
